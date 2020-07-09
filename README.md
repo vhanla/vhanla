@@ -1,5 +1,5 @@
+![header](https://raw.githubusercontent.com/vhanla/vhanla/master/.gitassets/brand.jpg)
 ### Hi there 👋
-
 ```
                                   _________
                                  | _____  o|
@@ -19,7 +19,7 @@
    \`"""""""""""""""""""""""""`/  \ \__)   \
     `"""""""""""""""""""""""""`    '========'
 ```
-Welcome to my open source projects repository, feel free to share your feedback, and maybe buy me a beer if you wish to help me maintain them.
+Welcome to my open source projects repository, feel free to share your feedback.
 <!--
 **vhanla/vhanla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📫 How to reach me: [@vhanla](https://twitter.com/vhanla)
