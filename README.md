@@ -31,6 +31,7 @@ Some of them are just proof of concepts, maybe eternally kept them as WIP projec
 If you wish to help me give time to keep them maintained, please leave your feedback, features requests, etc. 
 
 Thanks for reading. Take care.
+![anim](https://raw.githubusercontent.com/vhanla/vhanla/master/.gitassets/walkingmario.gif)
 
 *Here are some of my popular projects:*
 <!--
