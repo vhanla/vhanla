@@ -1,4 +1,3 @@
-![header](https://raw.githubusercontent.com/vhanla/vhanla/master/.gitassets/brand.jpg)
 ### Hi there 👋
 ```
                                   _________
