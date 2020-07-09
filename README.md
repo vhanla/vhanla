@@ -31,6 +31,8 @@ Some of them are just proof of concepts, maybe eternally kept them as WIP projec
 If you wish to help me give time to keep them maintained, please leave your feedback, features requests, etc. 
 
 Thanks for reading. Take care.
+
+*Here are some of my popular projects:*
 <!--
 **vhanla/vhanla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,4 +47,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📫 How to reach me: [@vhanla](https://twitter.com/vhanla)
+
