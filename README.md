@@ -22,6 +22,15 @@
     `"""""""""""""""""""""""""`    '========'
 ```
 🅵🅴🅴🅻 🅵🆁🅴🅴 🆃🅾 🅻🅴🅰🆅🅴 🆈🅾🆄🆁 🅵🅴🅴🅳🅱🅰🅲🅺, 🅰🅽🅳 🅳🅾🅽'🆃 🅵🅾🆁🅶🅴🆃 🆃🅾 🅻🅸🅺🅴 ;)
+
+### Welcome
+This is my GitHub's open source repository page, I write programs just to have fun, they are my hobbies, I try to make tools mainly for Windows using Object Pascal, C#, Assembly, Python, etc. and also web stuff.
+
+Some of them are just proof of concepts, maybe eternally kept them as WIP projects, but maybe some will get serious features to make them more feature wise and regularly maintained. 
+
+If you wish to help me give time to keep them maintained, please leave your feedback, features requests, etc. 
+
+Thanks for reading. Take care.
 <!--
 **vhanla/vhanla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
