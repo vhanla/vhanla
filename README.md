@@ -9,7 +9,7 @@
       ______________________     |[_______]|       global _main               |   org 100h    
      |.--------------------.|    |[_______]|       extern _printf             |
      ||                    ||    |[====o]  |                                  |   mov dx, msg
-     ||                    ||    |[_______]|       section .text              |   mov ah, 9
+     ||    H͓̽e͓̽l͓̽l͓̽o͓̽ ͓̽w͓̽o͓̽r͓̽l͓̽d͓̽!͓̽    ||    |[_______]|       section .text              |   mov ah, 9
      ||                    ||    |        :|   _main:                         |   int 21h
      ||____________________||    |        :|       push message               |   
  .==.|""      ......        |.==.|        :|       call _printf               |   mov ah, 4Ch
@@ -21,14 +21,12 @@
    \`"""""""""""""""""""""""""`/  \ \__)   \
     `"""""""""""""""""""""""""`    '========'
 ```
-🅵🅴🅴🅻 🅵🆁🅴🅴 🆃🅾 🅻🅴🅰🆅🅴 🆈🅾🆄🆁 🅵🅴🅴🅳🅱🅰🅲🅺, 🅰🅽🅳 🅳🅾🅽'🆃 🅵🅾🆁🅶🅴🆃 🆃🅾 🅻🅸🅺🅴 ;)
+              🅵🅴🅴🅻 🅵🆁🅴🅴 🆃🅾 🅻🅴🅰🆅🅴 🆈🅾🆄🆁 🅵🅴🅴🅳🅱🅰🅲🅺, 🅰🅽🅳 🅳🅾🅽'🆃 🅵🅾🆁🅶🅴🆃 🆃🅾 🅻🅸🅺🅴
 
 ### Welcome
 This is my GitHub's open source repository page, I write programs just to have fun, they are my hobbies, I try to make tools mainly for Windows using Object Pascal, C#, Assembly, Python, etc. and also web stuff.
 
-Some of them are just proof of concepts, maybe eternally kept them as WIP projects, but maybe some will get serious features to make them more feature wise and regularly maintained. 
-
-If you wish to help me give time to keep them maintained, please leave your feedback, features requests, etc. 
+Some of them are just proof of concepts, maybe they might remain as neverending WIP projects, or maybe some might get more attention and get continuous maintenance, as I said, they're hobby projects.
 
 Thanks for reading. Take care.
 ![anim](https://raw.githubusercontent.com/vhanla/vhanla/master/.gitassets/walkingmario.gif)
