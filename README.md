@@ -2,7 +2,7 @@
 **w҉e҉l҉c҉o҉m҉e҉ ҉t҉o҉ ҉m҉y҉ ҉r҉e҉p҉o҉s҉i҉t҉o҉r҉y҉!҉**
  **  I program 4 fun!
 
-![svg](https://raw.githubusercontent.com/vhanla/vhanla/master/.gitassets/ascii.svg)
+<img src="https://raw.githubusercontent.com/vhanla/vhanla/master/.gitassets/ascii.svg?raw=true" />
 
               🅵🅴🅴🅻 🅵🆁🅴🅴 🆃🅾 🅻🅴🅰🆅🅴 🆈🅾🆄🆁 🅵🅴🅴🅳🅱🅰🅲🅺, 🅰🅽🅳 🅳🅾🅽'🆃 🅵🅾🆁🅶🅴🆃 🆃🅾 🅻🅸🅺🅴
 
