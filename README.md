@@ -2,6 +2,21 @@
 **w҉e҉l҉c҉o҉m҉e҉ ҉t҉o҉ ҉m҉y҉ ҉r҉e҉p҉o҉s҉i҉t҉o҉r҉y҉!҉**
  **  I program 4 fun!
 
+![svg](https://raw.githubusercontent.com/vhanla/vhanla/master/.gitassets/ascii.svg)
+
+              🅵🅴🅴🅻 🅵🆁🅴🅴 🆃🅾 🅻🅴🅰🆅🅴 🆈🅾🆄🆁 🅵🅴🅴🅳🅱🅰🅲🅺, 🅰🅽🅳 🅳🅾🅽'🆃 🅵🅾🆁🅶🅴🆃 🆃🅾 🅻🅸🅺🅴
+
+### Welcome
+This is my GitHub's open source repository page, I write programs just to have fun, they are my hobbies, I try to make tools mainly for Windows using Object Pascal, C#, Assembly, Python, etc. and also web stuff.
+
+Some of them are just proof of concepts, maybe they might remain as neverending WIP projects, or maybe some might get more attention and get continuous maintenance, as I said, they're hobby projects.
+
+Thanks for reading. Take care.
+![anim](https://raw.githubusercontent.com/vhanla/vhanla/master/.gitassets/walkingmario.gif)
+
+*Here are some of my popular projects:*
+<!--
+**vhanla/vhanla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ```asm
                                   _________
                                  | _____  o|
@@ -21,19 +36,6 @@
    \`"""""""""""""""""""""""""`/  \ \__)   \
     `"""""""""""""""""""""""""`    '========'
 ```
-              🅵🅴🅴🅻 🅵🆁🅴🅴 🆃🅾 🅻🅴🅰🆅🅴 🆈🅾🆄🆁 🅵🅴🅴🅳🅱🅰🅲🅺, 🅰🅽🅳 🅳🅾🅽'🆃 🅵🅾🆁🅶🅴🆃 🆃🅾 🅻🅸🅺🅴
-
-### Welcome
-This is my GitHub's open source repository page, I write programs just to have fun, they are my hobbies, I try to make tools mainly for Windows using Object Pascal, C#, Assembly, Python, etc. and also web stuff.
-
-Some of them are just proof of concepts, maybe they might remain as neverending WIP projects, or maybe some might get more attention and get continuous maintenance, as I said, they're hobby projects.
-
-Thanks for reading. Take care.
-![anim](https://raw.githubusercontent.com/vhanla/vhanla/master/.gitassets/walkingmario.gif)
-
-*Here are some of my popular projects:*
-<!--
-**vhanla/vhanla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
