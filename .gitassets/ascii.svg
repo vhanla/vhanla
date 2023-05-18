@@ -107,7 +107,7 @@
                     stroke-miterlimit="79.8403193612775">
                     <tspan x="0" y="0" fill="#000000"> </tspan>
                     <tspan x="100.45" y="0" fill="#0003ff">         _________</tspan>
-                    <tspan x="1" y="9.06" fill="#0003ff">                                | _____  o|</tspan>
+                    <tspan x="16" y="9.06" fill="#0003ff">                                | _____  o|</tspan>
                     <tspan x="0" y="18.12" fill="#000000"> </tspan>
                     <tspan x="132.594" y="18.12" fill="#0003ff">|[_-_]_   |</tspan>
                     <tspan x="0" y="27.18" fill="#000000"> </tspan>
@@ -311,4 +311,37 @@
             Welcome to my GitHub's profile, I hope you like the content...
         </textPath>
     </text>
+
+  <path id="path" d="M 10 100 Q 900 20 200 100 T 990 100" stroke="none" fill="none" transform="translate(0, 60)" />
+  <text>
+    <textPath xlink:href="#path" startOffset="0%">
+      <tspan>👨🏻‍💻Hello, world!</tspan>
+      <animate attributeName="startOffset" from="0%" to="100%" dur="15s" repeatCount="indefinite" />
+    </textPath>
+  </text>
+  <defs>
+    <filter id="remove-white">
+      <feGaussianBlur stdDeviation="1.5" />
+    </filter>
+  </defs>
+<image
+    x="190"
+    y="-65"
+    width="64"
+    height="64"
+    transform="rotate(25)"
+    filter="url(#remove-white)"
+    xlink:href="https://avatars.githubusercontent.com/u/1015823?v=4">
+    <animate attributeName="opacity" from="0" to="1" dur="1s" repeatCount="indefinite" />
+    <animate attributeName="y" from="-20" to="200" dur="10s" repeatCount="indefinite" />
+  </image>
+  
+  <text font-size="20" font-family="Courier New" fill="#00FF00">
+    <animate attributeName="opacity" from="0" to="1" dur="1s" repeatCount="indefinite" />
+    <animate attributeName="y" from="-20" to="200" dur="10s" repeatCount="indefinite" />
+    <textPath xlink:href="#path">0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+    0101010101010101010101010101</textPath>
+  </text>
+
+
 </svg>
