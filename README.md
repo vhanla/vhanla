@@ -20,7 +20,7 @@ Some of them are just proof of concepts, maybe they might remain as neverending 
 These are just simple open source projects, the advanced and complex projects are private, though. 😉
 <br/>
 
-<h2 align="center">📊 Statistics</h2>
+<h2 align="center">📊 👩🏻‍💻</h2>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://readme-stats-teal-alpha.vercel.app/api?username=vhanla&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -28,15 +28,13 @@ These are just simple open source projects, the advanced and complex projects ar
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=vhanla&theme=material-palenight&hide_border=true&background=FFFFFF00">
 </p>
 <details>
-  <summary>:zap: Trophies</summary>
+  <summary>:zap: 🏆🎖️🏅</summary>
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=vhanla&theme=transparent"/>
 </p>
 </details>
 
-<h2 align="center">🌱 My Skills</h2>
-
-<h4 align="center">👨🏻‍💻 Programming languages (and others)</h4>
+<h4 align="center">👨🏻‍💻 Playing tools: </h4>
 
 <p align="center">
   <a href="https://github.com/search?q=user%3Avhanla+language%3Aassembly"><img alt="Assembler" src="https://custom-icon-badges.demolab.com/badge/asm-x86-gray.svg?logo=asm&logoColor=white"></a>
@@ -56,7 +54,6 @@ These are just simple open source projects, the advanced and complex projects ar
 Thanks for reading. Take care.
 ![anim](https://raw.githubusercontent.com/vhanla/vhanla/master/.gitassets/walkingmario.gif)
 
-<h2 align="center"><i>📌 Here are some of my popular projects:</i></h2>
 <!--
 [![Readme Card](https://readme-stats-teal-alpha.vercel.app/api/pin/?username=vhanla&repo=winxcorners)](https://github.com/vhanla/winxcorners)
 **vhanla/vhanla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
