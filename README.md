@@ -49,6 +49,7 @@ These are just simple open source projects, the advanced and complex projects ar
   <a href="https://github.com/search?q=user%3Avhanla+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Avhanla+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Avhanla+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vhanla&theme=algolia" alt="vhanla" />
 </p>
 
 Thanks for reading. Take care.
