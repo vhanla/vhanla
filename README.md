@@ -22,9 +22,7 @@ These are just simple open source projects, the advanced and complex projects ar
 
 <h2 align="center">📊 👩🏻‍💻</h2>
 
-<p align="center">
-  <img height="50%" width="auto" src ="https://readme-stats-teal-alpha.vercel.app/api?username=vhanla&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://readme-stats-teal-alpha.vercel.app/api/top-langs/?username=vhanla&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+<p align="center">  
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=vhanla&theme=material-palenight&hide_border=true&background=FFFFFF00">
 </p>
 <details>
